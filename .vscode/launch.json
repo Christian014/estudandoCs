@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: estudandoCs",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/estudandoCs.csproj",
+            "launchConfigurationId": "TargetFramework=;estudandoCs"
+        }
+    ]
+}
